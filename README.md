@@ -21,6 +21,10 @@
   <img align="center" alt="Laiza-Postgree" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Laiza-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
    
+### Último projeto realizado: https://github.com/4DeskGroup/API-2023.1
+   
+   
+   
 ##
 ### Atualmente Estudando:
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
