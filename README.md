@@ -4,7 +4,6 @@
 
 <div alinhar = "centro">
  <a href="https://github.com/4deskgroup">
- <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=4DeskGroup&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4DeskGroup&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
   
