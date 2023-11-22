@@ -26,6 +26,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.s
 <img align="center" alt="Laiza-Arduino" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Laiza-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+
+### Acesse os Projetos:
+* [1º Semestre](https://github.com/4DeskGroup/API-2023.2) → ract • typescript • node.js • sql
+* [3º Semestre](https://github.com/4DeskGroup/API-2023.1) → ract • javascript • node.js • sql
+* [2º Semestre](https://github.com/4DeskGroup/API-2022.2) → java • sql
+* [1º Semestre](https://github.com/4DeskGroup/API-2022.1) → html • css • javascript • php • python
    
 ### Projeto em andamento: https://github.com/4DeskGroup/API-2023.2
 ### Último projeto realizado: https://github.com/4DeskGroup/API-2023.1
