@@ -27,6 +27,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.s
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Laiza-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
    
+### Projeto em andamento: https://github.com/4DeskGroup/API-2023.2
 ### Último projeto realizado: https://github.com/4DeskGroup/API-2023.1
     
 ##
