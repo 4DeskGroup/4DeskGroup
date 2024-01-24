@@ -36,8 +36,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-orig
 * [2º Semestre](https://github.com/4DeskGroup/API-2022.2) → java • sql
 * [1º Semestre](https://github.com/4DeskGroup/API-2022.1) → html • css • javascript • bootstrap • php • python
    
-### Projeto em andamento: https://github.com/4DeskGroup/API-2023.2
-### Último projeto realizado: https://github.com/4DeskGroup/API-2023.1
+### Projeto em andamento: 
+### Último projeto realizado: https://github.com/4DeskGroup/API-2023.2
     
 ##
   ### Redes Sociais:
