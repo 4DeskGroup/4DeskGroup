@@ -31,6 +31,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-orig
   <img align="center" alt="Laiza-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 
 ### Acesse os Projetos:
+* [5° Semestre](https://github.com/4DeskGroup/API-2024.1) → ract native • javascript • typescript • node.js • mongodb
 * [4º Semestre](https://github.com/4DeskGroup/API-2023.2) → ract • typescript • materialui • node.js • sql
 * [3º Semestre](https://github.com/4DeskGroup/API-2023.1) → ract • javascript • bootstrap • node.js • sql
 * [2º Semestre](https://github.com/4DeskGroup/API-2022.2) → java • sql
