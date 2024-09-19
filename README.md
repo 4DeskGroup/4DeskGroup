@@ -39,7 +39,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-orig
 * [1º Semestre](https://github.com/4DeskGroup/API-2022.1) → html • css • javascript • bootstrap • php • python
    
 ### Projeto em andamento: 
-### Último projeto realizado: https://github.com/4DeskGroup/API-2024.1
+### Último projeto realizado: https://github.com/4DeskGroup/API-2024.2
     
 ##
   ### Redes Sociais:
